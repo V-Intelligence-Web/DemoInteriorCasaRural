@@ -15,6 +15,8 @@
 - **Apuntar al suelo + Click Izquierdo** → Desplazarse automáticamente hacia el punto seleccionado  
   >[!NOTE]
   > Asegúrate de apuntar directamente al suelo para un desplazamiento preciso.
+  > [!NOTE]
+> Useful information that users should know, even when skimming content.
   
 - **Presionar Escape una vez** → El cursor puede salir del área de juego  
 
