@@ -1,4 +1,4 @@
-# DemoPrefabricaPremium
+# DemoInteriorCasaRural
 
 ## Controles
 
@@ -12,11 +12,10 @@
 - **Movimiento del Mouse** → Controlar la vista alrededor
 
 ### Acciones adicionales
-- **Apuntar al suelo + Click Izquierdo** → Desplazarse automáticamente hacia el punto seleccionado
-  
- > [!NOTE]
- > Asegúrate de apuntar directamente al suelo para un desplazamiento preciso.
- 
+- **Click Izquierdo** → Aumenta la sensibilidad del mouse
+- 
+- **Click Derecho** → Disminuye la sensibilidad del mouse
+
 - **Presionar Escape una vez** → El cursor puede salir del área de juego  
 
 - **Presionar Escape dos veces** → El cursor se hace visible en la pantalla  
