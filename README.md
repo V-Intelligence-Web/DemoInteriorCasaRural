@@ -13,7 +13,7 @@
 
 ### Acciones adicionales
 - **Click Izquierdo** → Aumenta la sensibilidad del mouse
-- 
+  
 - **Click Derecho** → Disminuye la sensibilidad del mouse
 
 - **Presionar Escape una vez** → El cursor puede salir del área de juego  
